@@ -1,8 +1,3 @@
-Welcome to the Python Projects for Beginners repository! This collection features a variety of coding projects designed to enhance your problem-solving skills and deepen your understanding of Python programming.
-
-Overview
-Each project included in this repository serves as a practical exercise to help you grasp core Python concepts. From simple games to useful applications, these projects cover a range of topics ideal for beginners.
-
 Projects Included
 ATM Simulation - A basic ATM simulation for practicing user input and transaction handling.
 Cows and Bulls Game - A fun number-guessing game that challenges your logic and reasoning.
